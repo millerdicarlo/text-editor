@@ -26,7 +26,6 @@ This project was created with the following technologies:
 * Inquirer
 * Express.js
 * Mongoose
-*
 
 
 ## Installation
@@ -37,10 +36,10 @@ After installing, run the program by typing the following in the command line:
 
 
 ## Website
-### You can view the deployed application on Heroku at: https://serene-falls-47597.herokuapp.com/
+### You can view the deployed application on Heroku at: 
 
 ### Screenshot of Deployed Application:
-![Screenshot](./client/public/Rent-A-Party.png)
+![Screenshot]()
 
 ## More Information
 This application was created by:
